@@ -1,0 +1,1 @@
+The repo to my Medium Article "How to Serve AI Models with FastAPI and Docker"
